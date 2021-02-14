@@ -1,24 +1,23 @@
-# clientweatherapp
+## Weather App Client
+by: Paul Dela Vega
+This is a weather app that focuses on weather guide for tourists.
 
-## Project setup
-```
-npm install
-```
+## Features
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Add City Forecast to favorite
+- Japan Forecast
+- 7 daily forecast
+- Searched city reports
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Weather App Setup for testing
 
-### Lints and fixes files
-```
-npm run lint
-```
+This is a laravel project for bizmates exam completion.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Step by step Set up:
+
+- Clone Repository
+- Run $ npm install
+- Run $ npm run serve
+
+Note: Make sure backend is running on http://127.0.0.1:8000, in any cases that it is different, make sure to change the root in ../store.js
+Note: Make sure you are running serverweatherapp. To set up you can clone the repo here: https://github.com/thepauldv/serverweatherapp.git
